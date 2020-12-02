@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **KeonHeeLee/KeonHeeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## KeonHeeLee's Github Profile 👋
+> Frontend Developer: <b>vue</b> & react
+
+### History
+2020.10. ~ Current : 

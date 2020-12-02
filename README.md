@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### History
 - 2020.10. ~ Current  : Xinapse (NLU team: Front-end Developer)
 - 2019.06. ~ 2020.09. : Danal (FE-dev team: Web Developer)
+- 2013.03. ~ 2019.02. : Kumoh National Institute of Technology (Bachelor's Course)
 
 ### Skills
 - Front-end : Vue.js, Vuex, Vuetify, Nuxt.js, React, Redux, Next.js, ES6

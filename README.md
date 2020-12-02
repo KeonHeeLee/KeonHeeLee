@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## KeonHeeLee's Github Profile 👋
 > Frontend Developer: <b>vue</b> & react
+> I want to be full-stack developer!
 
 ### History
 - 2020.10. ~ Current  : Xinapse (NLU team: Front-end Developer)

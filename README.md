@@ -19,4 +19,14 @@ Here are some ideas to get you started:
 > Frontend Developer: <b>vue</b> & react
 
 ### History
-2020.10. ~ Current : 
+2020.10. ~ Current  : Xinapse (NLU team: Front-end Developer)
+2019.06. ~ 2020.09. : Danal (FE-dev team: Web Developer)
+
+### Skills
+- Front-end : Vue.js, Vuex, Vuetify, Nuxt.js, React, Redux, Next.js, ES6
+- Back-end : Spring, Flask, express.js
+- etc: Android, AWS EC2/RDS, MySQL, php, Jenkins, git, svn, Apache, Nginx, Docker
+
+### Interets & Studying
+- Interest: React Native, vue.js 3.0
+- Studying: Terraform, Jenkins

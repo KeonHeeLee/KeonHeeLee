@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## KeonHeeLee's Github Profile 👋
-> Frontend Developer: <b>vue</b> & react
+> Frontend Developer: <b>vue</b> & react <br>
 > I want to be full-stack developer!
 
 ### History
